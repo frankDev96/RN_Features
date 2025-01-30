@@ -1,0 +1,22 @@
+
+To create boilerplate folders & files
+-------------------------------
+
+mkdir -p src/{components,screens,navigation,utils,assets/{images,icons}} &&
+cd src &&
+touch components/CustomButton.js screens/{HomeScreen.js,LoginScreen.js} navigation/AppNavigator.js utils/helpers.js App.js index.js &&
+cd ../ &&
+touch package.json
+
+
+first things first
+-------------------
+add to top of => index.js
+
+import 'react-native-gesture-handler';
+import 'react-native-reanimated';
+
+----- * ------- * ---------
+
+
+
