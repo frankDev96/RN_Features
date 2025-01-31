@@ -20,3 +20,31 @@ import 'react-native-reanimated';
 
 
 
+Add app icons - icon kitchen
+-------------------
+
+Goto 
+1. https://icon.kitchen/i/H4sIAAAAAAAAA6tWKkvMKU0tVrKqVkpJLMoOyUjNTVWySkvMKU6t1VHKzU8pzQHJRisl5qUU5WemKOkoZeYXA8ny1CSl2FoApT8%2BHkAAAAA%3D
+2. Extract files and add to 
+    (1). For android - android/app/src/main/res/
+    (2). For ios - ios/[YourProject]/Images.xcassets/AppIcon.appiconset/
+
+
+
+
+
+----- * ------- * ---------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
